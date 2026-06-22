@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "bankingGroup": true,
   "numberOfBanks": 9,
@@ -92,9 +93,12 @@
     "bankingsdk",
     "bridgeapi-io",
     "equensworldline",
+    "gocardless",
     "ibanity",
     "klarna",
+    "lunchflow",
     "plaid",
+    "tink",
     "volt"
   ],
   "collections": [],
@@ -153,5 +157,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "BSABESBB"
 }

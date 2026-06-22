@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole de Loire Haute-Loire",
-  "legalName": "Cr\u00e9dit Agricole de Loire Haute-Loire",
+  "name": "Crédit Agricole de Loire Haute-Loire",
+  "legalName": "Crédit Agricole de Loire Haute-Loire",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-de-loire-haute-loire.com.ico",
@@ -23,7 +23,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yapily"
   ],
   "ownership": [],
   "stateOwned": false,

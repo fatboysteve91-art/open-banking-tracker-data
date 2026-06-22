@@ -4,33 +4,30 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "retail"
   ],
-  "status": "live",
-  "name": "Banca Santa Giulia S.p.A.",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_santa_giulia_it.svg",
+  "name": "Banca Santa Giulia",
+  "legalName": "Banca Santa Giulia",
   "verified": false,
-  "websiteUrl": "https://www.bancasantagiulia.it",
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.banca-santa-giulia.com.ico",
+  "websiteUrl": null,
   "countryHQ": "IT",
   "countries": [
     "IT"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "",
-  "apiAggregators": [
-    "salt-edge"
-  ],
-  "swiftCode": "SGIUIT21XXX"
+  "stockSymbol": null,
+  "bic": "SGIUIT21"
 }

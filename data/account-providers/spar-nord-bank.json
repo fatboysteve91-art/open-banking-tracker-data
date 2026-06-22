@@ -108,6 +108,10 @@
   "fca": "001b000000MfSZmAAN",
   "articles": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink",
     "volt"
-  ]
+  ],
+  "bic": "SPNODK22"
 }

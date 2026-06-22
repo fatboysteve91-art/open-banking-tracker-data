@@ -8,14 +8,14 @@
   ],
   "name": "Australia AND NEW Zealand Banking Group LTD",
   "legalName": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD",
-  "bic": "ANZBHKHXXXX",
   "verified": false,
   "status": "live",
   "icon": null,
   "websiteUrl": null,
   "countryHQ": "HK",
   "countries": [
-    "HK"
+    "HK",
+    "MM"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZBHKHXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE POPULAIRE MEDITERRANEE",
   "legalName": "BANQUE POPULAIRE MEDITERRANEE",
-  "bic": "CCBPMCM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquepopulairemediterranee.com.ico",
@@ -24,9 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCBPFRPPMAR"
 }

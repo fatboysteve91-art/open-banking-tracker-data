@@ -83,7 +83,10 @@
   ],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [

@@ -4,27 +4,139 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "challenger"
   ],
   "name": "Meow",
-  "legalName": "Meow",
+  "legalName": "Meow Technologies, Inc.",
+  "description": "Meow Technologies is a financial technology company offering business banking, corporate cards, global treasury (U.S. T-Bills, U.K. Gilts, German Bunds via BNY Pershing), international payouts in 50+ currencies, invoicing, and stablecoin (USDC/USDT) services. It serves businesses, VC firms, real estate funds, and startups globally, with banking services provided by Cross River Bank and Grasshopper Bank, N.A. (both FDIC members). In April 2026, Meow launched the world's first agentic banking platform, enabling AI agents to open and manage business bank accounts via CLI and MCP server.",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.meow.com.ico",
-  "websiteUrl": "https://meow.com",
+  "websiteUrl": "https://www.meow.com",
   "countryHQ": "US",
   "countries": [
     "US"
   ],
+  "thirdPartyBankingLicense": [
+    "cross-river-bank",
+    "grasshopper"
+  ],
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://www.meow.com/llms.txt",
+  "mcpServer": {
+    "type": "hosted",
+    "transport": "sse",
+    "serverUrl": "https://mcp.meow.com/",
+    "npmPackage": "@joinmeow/cli",
+    "command": "meow",
+    "args": [
+      "mcp"
+    ],
+    "authType": "api_key",
+    "documentationUrl": "https://www.meow.com/skills.md",
+    "programStatus": "live",
+    "accessLevel": "read-write",
+    "tools": [
+      "start-onboarding",
+      "create-account",
+      "verify-email",
+      "pay",
+      "card",
+      "invoice",
+      "upload",
+      "confirm"
+    ],
+    "capabilities": [
+      "account-data",
+      "payments",
+      "cards",
+      "invoicing",
+      "onboarding"
+    ],
+    "supportedModels": [
+      "Claude",
+      "ChatGPT",
+      "Cursor",
+      "Gemini"
+    ]
+  },
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
     "plaid"
   ],
+  "partnerships": [
+    {
+      "id": "cross-river-bank",
+      "name": "Cross River Bank",
+      "icon": "https://icons.duckduckgo.com/ip3/www.crossriver.com.ico",
+      "websiteUrl": "https://www.crossriver.com/",
+      "title": "Banking services and FDIC deposit insurance",
+      "desription": "Banking services are provided by Cross River Bank, Member FDIC. The FDIC's deposit insurance coverage only protects against the failure of an FDIC-insured bank.",
+      "sourceUrl": "https://www.meow.com/"
+    },
+    {
+      "id": "grasshopper",
+      "name": "Grasshopper Bank, N.A.",
+      "icon": "https://icons.duckduckgo.com/ip3/www.grasshopper.bank.ico",
+      "websiteUrl": "https://www.grasshopper.bank/",
+      "title": "Banking services and FDIC deposit insurance",
+      "desription": "Banking services are provided by Grasshopper Bank, N.A., Member FDIC. Deposit placement through IntraFi Cash Service is available for extended FDIC insurance coverage up to $200 million.",
+      "sourceUrl": "https://www.meow.com/"
+    },
+    {
+      "name": "Community Federal Savings Bank",
+      "icon": "https://icons.duckduckgo.com/ip3/www.communityfederalsavingsbank.com.ico",
+      "websiteUrl": "https://www.communityfederalsavingsbank.com/",
+      "title": "Meow Commercial Card issuer",
+      "desription": "The Meow Commercial Card is issued by Community Federal Savings Bank, pursuant to a license from VISA U.S.A. Inc.",
+      "sourceUrl": "https://www.meow.com/for-businesses"
+    },
+    {
+      "name": "Airwallex US, LLC",
+      "icon": "https://icons.duckduckgo.com/ip3/www.airwallex.com.ico",
+      "websiteUrl": "https://www.airwallex.com/",
+      "title": "Payment services",
+      "desription": "Payment services are provided through Airwallex US, LLC (NMLS #1928093).",
+      "sourceUrl": "https://www.meow.com/for-businesses"
+    },
+    {
+      "name": "Bridge Ventures LLC",
+      "icon": "https://icons.duckduckgo.com/ip3/www.bridge.xyz.ico",
+      "websiteUrl": "https://www.bridge.xyz/",
+      "title": "Stablecoin payment services",
+      "desription": "The payment services described are provided by Bridge Ventures LLC and its affiliates, registered and licensed where applicable.",
+      "sourceUrl": "https://www.meow.com/"
+    },
+    {
+      "name": "Atomic Invest LLC",
+      "icon": "https://icons.duckduckgo.com/ip3/atomicvest.com.ico",
+      "websiteUrl": "https://atomicvest.com/",
+      "title": "Investment advisory (subadvisory services)",
+      "desription": "Meow Advisory LLC has an engagement with Atomic Invest LLC, an SEC-registered investment adviser, for investment advisory account services. Brokerage services for Atomic Invest are provided by Pershing Advisor Solutions LLC (PAS), Member FINRA/SIPC.",
+      "sourceUrl": "https://www.meow.com/"
+    },
+    {
+      "name": "Atomic Brokerage LLC",
+      "icon": "https://icons.duckduckgo.com/ip3/atomicvest.com.ico",
+      "websiteUrl": "https://atomicvest.com/",
+      "title": "Brokerage services",
+      "desription": "Meow Advisory LLC has an engagement with Atomic Brokerage LLC, a registered broker-dealer and member of FINRA and SIPC, to provide brokerage account services. Custodial and clearing services are provided by BNY Pershing.",
+      "sourceUrl": "https://www.meow.com/treasury"
+    },
+    {
+      "name": "IntraFi Network LLC",
+      "icon": "https://icons.duckduckgo.com/ip3/www.intrafi.com.ico",
+      "websiteUrl": "https://www.intrafi.com/",
+      "title": "Extended FDIC deposit insurance via sweep network",
+      "desription": "Deposits may be placed through IntraFi Cash Service at FDIC-insured banks in IntraFi's network for up to $200 million in FDIC insurance coverage. Deposit placement is subject to IntraFi terms and conditions.",
+      "sourceUrl": "https://www.meow.com/"
+    }
+  ],
+  "ipoStatus": "private",
+  "crunchbase": "meow-technologies",
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

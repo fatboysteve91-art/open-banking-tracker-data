@@ -8,14 +8,14 @@
   ],
   "name": "Sber Bank",
   "legalName": "SBER BANK",
-  "bic": "BPSBBY2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sberbank.com.ico",
   "websiteUrl": "https://www.sberbank.com",
   "countryHQ": "BY",
   "countries": [
-    "BY"
+    "BY",
+    "IN"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPSBBY2XXXX"
 }

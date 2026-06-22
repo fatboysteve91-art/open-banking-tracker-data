@@ -49,15 +49,17 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://api.hsbc.com/",
   "apiAggregators": [
-    "plaid",
-    "nordigen",
-    "truelayer",
     "banked",
-    "openwrks",
-    "friendlyscore",
     "equensworldline",
+    "finexer",
+    "friendlyscore",
     "moneyhub-enterprise",
-    "salt-edge"
+    "nordigen",
+    "openwrks",
+    "plaid",
+    "salt-edge",
+    "tink",
+    "truelayer"
   ],
   "apiProducts": [],
   "apiStandards": [],

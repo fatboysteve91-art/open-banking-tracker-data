@@ -30,7 +30,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "gocardless",
+    "lunchflow",
+    "salt-edge",
+    "yapily"
   ],
-  "swiftCode": "BCVAIT2VXXX"
+  "bic": "BCVAIT2VXXX"
 }

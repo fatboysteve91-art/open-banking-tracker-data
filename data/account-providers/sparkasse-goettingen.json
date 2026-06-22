@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse G\u00f6ttingen",
-  "legalName": "Sparkasse G\u00f6ttingen",
+  "name": "Sparkasse Göttingen",
+  "legalName": "Sparkasse Göttingen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-goettingen.com.ico",
@@ -23,7 +23,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

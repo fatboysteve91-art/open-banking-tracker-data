@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "Poste Italiane Patrimonio BancoPosta",
@@ -32,7 +33,10 @@
   "apiAggregators": [
     "plaid",
     "salt-edge",
-    "volt"
+    "tink",
+    "volt",
+    "yapily"
   ],
-  "swiftCode": "BPPIITRRXXX"
+  "legalName": "BancoPosta",
+  "bic": "BPPIITRRXXX"
 }

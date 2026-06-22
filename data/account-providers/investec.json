@@ -145,7 +145,10 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid"
+    "gocardless",
+    "lunchflow",
+    "plaid",
+    "tink"
   ],
   "collections": [],
   "webApplication": false,
@@ -174,5 +177,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "IVESGB2L"
 }

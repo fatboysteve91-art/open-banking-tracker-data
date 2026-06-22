@@ -23,10 +23,14 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "tink",
+    "volt",
+    "yapily"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "HYVEDEMMXXX"
+  "bic": "HYVEDEMM"
 }

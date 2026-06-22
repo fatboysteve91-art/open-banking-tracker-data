@@ -94,11 +94,16 @@
     "bankingsdk",
     "bridgeapi-io",
     "equensworldline",
+    "gocardless",
     "ibanity",
+    "lunchflow",
     "nordigen",
     "plaid",
+    "powens",
     "salt-edge",
-    "volt"
+    "tink",
+    "volt",
+    "yapily"
   ],
   "collections": [],
   "webApplication": true,
@@ -141,5 +146,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "BKBKESMM"
 }

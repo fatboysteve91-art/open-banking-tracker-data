@@ -36,7 +36,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "flinks"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [
@@ -80,5 +82,6 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "marketplaceUrl": ""
+  "marketplaceUrl": "",
+  "bic": "ROYCHKHH"
 }

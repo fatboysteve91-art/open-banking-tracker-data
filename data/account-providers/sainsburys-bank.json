@@ -45,8 +45,10 @@
   "apiReferenceUrl": "https://developer.sainsburysbank.co.uk/api",
   "apiChangelogUrl": null,
   "apiAggregators": [
+    "finexer",
+    "moneyhub-enterprise",
     "truelayer",
-    "moneyhub-enterprise"
+    "yapily"
   ],
   "apiProducts": [
     {

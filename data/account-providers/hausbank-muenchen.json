@@ -1,0 +1,32 @@
+{
+  "id": "hausbank-muenchen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Hausbank München",
+  "legalName": "Hausbank München",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.hausbank-muenchen.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "tink",
+    "yaxi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

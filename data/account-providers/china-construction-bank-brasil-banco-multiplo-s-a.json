@@ -8,14 +8,14 @@
   ],
   "name": "CHINA CONSTRUCTION BANK (BRASIL) BANCO MULTIPLO S /A",
   "legalName": "CHINA CONSTRUCTION BANK (BRASIL) BANCO MULTIPLO S /A",
-  "bic": "BICBKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chinaconstructionbankbrasilbancomultiplosa.com.ico",
   "websiteUrl": null,
   "countryHQ": "KY",
   "countries": [
-    "KY"
+    "KY",
+    "BR"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BICBKYKYXXX"
 }

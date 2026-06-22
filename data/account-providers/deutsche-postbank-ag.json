@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE POSTBANK AG",
   "legalName": "DEUTSCHE POSTBANK AG",
-  "bic": "PBNKDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschepostbankag.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "yapily"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBNKDEFFXXX"
 }

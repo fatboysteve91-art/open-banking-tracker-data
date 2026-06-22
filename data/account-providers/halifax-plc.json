@@ -8,7 +8,6 @@
   ],
   "name": "HALIFAX PLC",
   "legalName": "HALIFAX PLC",
-  "bic": "HLFXGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.halifaxplc.com.ico",
@@ -24,9 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "tink",
+    "volt",
+    "yapily"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HLFXGB21XXX"
 }

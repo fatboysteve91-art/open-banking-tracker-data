@@ -30,8 +30,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "salt-edge",
+    "yapily",
+    "yaxi"
   ],
-  "swiftCode": "SOLADES1KNZ"
+  "bic": "SOLADES1KNZ"
 }

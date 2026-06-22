@@ -4,34 +4,28 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "retail"
   ],
-  "status": "live",
-  "name": "National-Bank AG",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/au/national_bank_of_australia_au.svg",
+  "name": "National-Bank",
+  "legalName": null,
   "verified": false,
-  "websiteUrl": "https://www.national-bank.de",
-  "countryHQ": "DE",
+  "status": "live",
+  "icon": null,
+  "websiteUrl": null,
+  "countryHQ": null,
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://www.bank-verlag.de/psd2-degussabank",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
+  "apiAggregators": [
+    "yaxi"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "",
-  "apiAggregators": [
-    "yaxi",
-    "salt-edge"
-  ],
-  "swiftCode": "NBAGDE3EXXX"
+  "stockSymbol": null
 }

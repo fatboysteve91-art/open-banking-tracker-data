@@ -8,14 +8,14 @@
   ],
   "name": "Banco Internacional S.a.",
   "legalName": "BANCO INTERNACIONAL S.A.",
-  "bic": "BINTECEQ100",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancointernacional.com.ec.ico",
   "websiteUrl": "https://www.bancointernacional.com.ec",
   "countryHQ": "EC",
   "countries": [
-    "EC"
+    "EC",
+    "ES"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BINTECEQ100"
 }

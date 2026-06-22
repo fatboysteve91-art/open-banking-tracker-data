@@ -101,10 +101,15 @@
   ],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "plaid",
+    "powens",
     "salt-edge",
+    "tink",
     "truelayer",
     "volt",
+    "yapily",
     "yaxi"
   ],
   "collections": [],
@@ -150,5 +155,5 @@
   ],
   "platforms": [],
   "awards": [],
-  "swiftCode": "COBADEFFXXX"
+  "bic": "COBADEFFXXX"
 }

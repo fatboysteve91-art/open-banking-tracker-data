@@ -8,14 +8,14 @@
   ],
   "name": "Banque Centrale DES Etats DE L'afrique DE L'ouest",
   "legalName": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
-  "bic": "BCAOBFBFBOB",
   "verified": false,
   "status": "live",
   "icon": null,
   "websiteUrl": null,
   "countryHQ": "BF",
   "countries": [
-    "BF"
+    "BF",
+    "BJ"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCAOBFBFBOB"
 }

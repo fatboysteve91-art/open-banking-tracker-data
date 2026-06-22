@@ -4,35 +4,28 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "retail"
   ],
-  "status": "live",
-  "name": "Sparda-Bank Augsburg eG",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/sparda_de.svg",
+  "name": "Sparda-Bank Augsburg",
+  "legalName": null,
   "verified": false,
-  "websiteUrl": "https://www.sparda-a.de",
-  "countryHQ": "DE",
+  "status": "live",
+  "icon": null,
+  "websiteUrl": null,
+  "countryHQ": null,
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://www.sopra-financial-technology.com/psd2/psd2-english",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "ownership": [],
-  "stateOwned": false,
-  "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge",
-    "volt",
     "yaxi"
   ],
-  "swiftCode": "GENODEF1S03"
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
 }

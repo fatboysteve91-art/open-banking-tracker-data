@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE DU MAROC",
   "legalName": "CREDIT AGRICOLE DU MAROC",
-  "bic": "CNCAMAMRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricoledumaroc.com.ico",
@@ -23,8 +22,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": ["sahl"],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNCAMAMRXXX"
 }

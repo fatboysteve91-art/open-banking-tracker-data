@@ -71,13 +71,17 @@
     "enablebanking",
     "enfuce",
     "fintecture",
+    "gocardless",
     "klarna",
+    "lunchflow",
     "neonomics",
     "nordigen",
     "plaid",
     "salt-edge",
+    "tink",
     "truelayer",
-    "volt"
+    "volt",
+    "yapily"
   ],
   "webApplication": true,
   "mobileApps": [
@@ -103,5 +107,6 @@
   "crunchbase": "seb",
   "github": "sebgroup",
   "fca": "001b000000MfF4XAAV",
-  "articles": []
+  "articles": [],
+  "bic": "ESSEDK22"
 }

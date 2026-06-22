@@ -8,7 +8,6 @@
   ],
   "name": "BOURSORAMA",
   "legalName": "BOURSORAMA",
-  "bic": "BOUSFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.boursorama.com.ico",
@@ -23,8 +22,12 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "powens",
+    "yapily"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOUSFRPPXXX"
 }

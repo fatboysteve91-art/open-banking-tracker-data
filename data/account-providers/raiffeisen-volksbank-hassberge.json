@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisen-Volksbank Ha\u00dfberge",
-  "legalName": "Raiffeisen-Volksbank Ha\u00dfberge",
+  "name": "Raiffeisen-Volksbank Haßberge",
+  "legalName": "Raiffeisen-Volksbank Haßberge",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisen-volksbank-hassberge.com.ico",
@@ -23,7 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yapily",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

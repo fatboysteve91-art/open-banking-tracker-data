@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Consorsbank",
   "description": "Consorsbank is a brand of BNP Paribas SA Niederlassung Deutschland with its seat in Nuremberg.",
-  "legalName": null,
+  "legalName": "Consorsbank",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -45,12 +46,15 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "yaxi",
     "equensworldline",
-    "salt-edge"
+    "gocardless",
+    "lunchflow",
+    "salt-edge",
+    "tink",
+    "yaxi"
   ],
   "collections": [],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
@@ -107,5 +111,5 @@
   "platforms": [],
   "awards": [],
   "marketplaceUrl": "https://www.consorsbank.de/ev/transversal/tools-und-tipps?icid=mdd-64",
-  "swiftCode": "CSDBDE71XXX"
+  "bic": "CSDBDE71XXX"
 }

@@ -8,14 +8,14 @@
   ],
   "name": "Addiko Bank D.d.",
   "legalName": "ADDIKO BANK D.D.",
-  "bic": "HAABHR22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
   "websiteUrl": null,
   "countryHQ": "HR",
   "countries": [
-    "HR"
+    "HR",
+    "BA"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAABHR22XXX"
 }

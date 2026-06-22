@@ -8,7 +8,6 @@
   ],
   "name": "BNP Paribas SA",
   "legalName": "BNP PARIBAS SA",
-  "bic": "GEBAATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibas.at.ico",
@@ -23,8 +22,14 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "plaid",
+    "tink"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPADEFFXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FRANKFURTER BANKGESELLSCHAFT AG",
   "legalName": "FRANKFURTER BANKGESELLSCHAFT AG",
-  "bic": "FBGADEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.frankfurterbankgesellschaftag.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FBGADEF1XXX"
 }

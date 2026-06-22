@@ -1,0 +1,39 @@
+{
+  "id": "hamilton-reserve-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
+  "name": "Hamilton Reserve Bank",
+  "legalName": "Hamilton Reserve Bank Ltd",
+  "verified": false,
+  "status": "live",
+  "icon": "https://www.hamiltonreservebank.com/images/logo.png",
+  "websiteUrl": "https://www.hamiltonreservebank.com/",
+  "countryHQ": "KN",
+  "countries": [
+    "KN"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "stack": [
+    {
+      "id": "temenos",
+      "name": "Temenos",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1614098937/icons/temenos.jpg",
+      "websiteUrl": "https://www.temenos.com/"
+    }
+  ],
+  "bic": null
+}

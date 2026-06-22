@@ -4,29 +4,40 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
-  "name": "Osts\u00e4chsische Sparkasse Dresden",
-  "legalName": "Osts\u00e4chsische Sparkasse Dresden",
+  "name": "Ostsächsische Sparkasse Dresden",
+  "legalName": "Ostsächsische Sparkasse Dresden",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.ostsaechsische-sparkasse-dresden.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/ostsachsische_sparkasse_dresden_de.svg",
+  "websiteUrl": "https://www.ostsaechsische-sparkasse-dresden.de",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "plaid",
+    "salt-edge",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "OSDDDE81FTL"
+  "bic": "OSDDDE81XXX"
 }

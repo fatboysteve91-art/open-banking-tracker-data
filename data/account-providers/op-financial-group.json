@@ -152,10 +152,13 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "nordigen",
-    "neonomics",
+    "enablebanking",
+    "gocardless",
     "klarna",
-    "enablebanking"
+    "lunchflow",
+    "neonomics",
+    "nordigen",
+    "yapily"
   ],
   "collections": [],
   "sdks": null,
@@ -212,5 +215,6 @@
   "integrations": [],
   "platforms": [],
   "pricingUrl": null,
-  "awards": []
+  "awards": [],
+  "bic": "OKOYFIHH"
 }

@@ -96,13 +96,19 @@
     "bridgeapi-io",
     "budget-insight",
     "equensworldline",
+    "flinks",
+    "gocardless",
     "ibanity",
     "klarna",
+    "lunchflow",
     "nordigen",
     "plaid",
+    "powens",
     "salt-edge",
+    "tink",
     "truelayer",
-    "volt"
+    "volt",
+    "yapily"
   ],
   "collections": [],
   "webApplication": true,
@@ -168,5 +174,6 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "marketplaceUrl": ""
+  "marketplaceUrl": "",
+  "bic": "BBVAGB2L"
 }

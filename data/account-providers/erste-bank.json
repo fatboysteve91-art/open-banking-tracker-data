@@ -23,7 +23,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "powens",
+    "tink",
+    "volt",
+    "yapily"
   ],
   "ownership": [],
   "stateOwned": false,

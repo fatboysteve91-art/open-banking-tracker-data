@@ -30,8 +30,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "salt-edge",
     "volt"
   ],
-  "swiftCode": "VOVBAT2BXXX"
+  "bic": "VOVBAT2BXXX"
 }

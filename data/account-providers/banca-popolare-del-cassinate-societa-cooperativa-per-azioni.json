@@ -1,0 +1,34 @@
+{
+  "id": "banca-popolare-del-cassinate-societa-cooperativa-per-azioni",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Banca Popolare del Cassinate Società cooperativa per azioni",
+  "legalName": "Banca Popolare del Cassinate Società cooperativa per azioni",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.banca-popolare-del-cassinate-societa-cooperativa-per-azioni.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "POCAIT3C"
+}

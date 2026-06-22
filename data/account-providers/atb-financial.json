@@ -1,0 +1,31 @@
+{
+  "id": "atb-financial",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "ATB Financial",
+  "legalName": "ATB Financial",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.atb-financial.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "flinks"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

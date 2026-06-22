@@ -3,7 +3,9 @@
   "type": [
     "account"
   ],
-  "bankType": ["universal"],
+  "bankType": [
+    "universal"
+  ],
   "status": "live",
   "name": "BAWAG P.S.K.",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/bawag_at.svg",
@@ -28,7 +30,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "gocardless",
+    "lunchflow",
+    "salt-edge",
+    "tink"
   ],
-  "swiftCode": "BAWAATWW"
+  "bic": "BAWAATWW"
 }

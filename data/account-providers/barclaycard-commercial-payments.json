@@ -30,7 +30,11 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "finexer",
+    "gocardless",
+    "lunchflow",
+    "salt-edge",
+    "yapily"
   ],
-  "swiftCode": ""
+  "bic": "BUKBGB22"
 }

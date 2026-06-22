@@ -8,14 +8,14 @@
   ],
   "name": "Banco Bilbao Vizcaya Argentaria S.a.",
   "legalName": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
-  "bic": "BBVABEBBTG2",
   "verified": false,
   "status": "live",
   "icon": null,
   "websiteUrl": null,
   "countryHQ": "BE",
   "countries": [
-    "BE"
+    "BE",
+    "CN"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBVABEBBTG2"
 }

@@ -49,9 +49,12 @@
     "fintecture",
     "klarna",
     "plaid",
+    "powens",
     "salt-edge",
+    "tink",
     "truelayer",
-    "volt"
+    "volt",
+    "yapily"
   ],
   "apiProducts": [
     {

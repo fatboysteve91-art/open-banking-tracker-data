@@ -4,33 +4,30 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "retail"
   ],
-  "status": "live",
   "name": "Banca Popolare Vesuviana",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_popolare_vesuviana_it.svg",
+  "legalName": "Banca Popolare Vesuviana",
   "verified": false,
-  "websiteUrl": "https://www.popves.it",
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.banca-popolare-vesuviana.com.ico",
+  "websiteUrl": null,
   "countryHQ": "IT",
   "countries": [
     "IT"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "",
-  "apiAggregators": [
-    "salt-edge"
-  ],
-  "swiftCode": "POVEIT33"
+  "stockSymbol": null,
+  "bic": "POVEIT33"
 }

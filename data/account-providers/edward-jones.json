@@ -1,0 +1,31 @@
+{
+  "id": "edward-jones",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Edward Jones",
+  "legalName": "Edward Jones",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.edward-jones.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "flinks"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

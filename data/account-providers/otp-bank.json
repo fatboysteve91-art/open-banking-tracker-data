@@ -77,6 +77,8 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "banqup",
+    "gocardless",
+    "lunchflow",
     "salt-edge",
     "volt"
   ],
@@ -126,5 +128,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "OTPVHUHB"
 }

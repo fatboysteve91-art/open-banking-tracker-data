@@ -8,7 +8,6 @@
   ],
   "name": "SPARDA-BANK BADEN-WUERTTEMBERG",
   "legalName": "SPARDA-BANK BADEN-WUERTTEMBERG",
-  "bic": "SBBWDESTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spardabankbadenwuerttemberg.com.ico",
@@ -24,9 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "plaid",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBBWDESTXXX"
 }

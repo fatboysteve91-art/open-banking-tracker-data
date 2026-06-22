@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Westkreis F\u00fcrstenfeldbruck",
-  "legalName": "Raiffeisenbank Westkreis F\u00fcrstenfeldbruck",
+  "name": "Raiffeisenbank Westkreis Fürstenfeldbruck",
+  "legalName": "Raiffeisenbank Westkreis Fürstenfeldbruck",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-westkreis-fuerstenfeldbruck.com.ico",
@@ -23,7 +23,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

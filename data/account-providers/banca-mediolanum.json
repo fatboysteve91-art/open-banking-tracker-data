@@ -4,35 +4,31 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "retail"
   ],
-  "status": "live",
   "name": "Banca Mediolanum",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_mediolanum_it.svg",
+  "legalName": "Banca Mediolanum",
   "verified": false,
-  "websiteUrl": "https://www.bancamediolanum.it",
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.banca-mediolanum.com.ico",
+  "websiteUrl": null,
   "countryHQ": "IT",
   "countries": [
     "IT"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://portal.mediolanum.it",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "yapily"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "",
-  "apiAggregators": [
-    "plaid",
-    "salt-edge",
-    "volt"
-  ],
-  "swiftCode": "MEDBITMM"
+  "stockSymbol": null,
+  "bic": "MEDBITMM"
 }

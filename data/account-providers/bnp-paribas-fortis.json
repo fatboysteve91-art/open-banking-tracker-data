@@ -18,7 +18,7 @@
       "shareholderName": "BNP Paribas",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296072/radar/icons/BNP_Paribas.jpg",
       "providerId": "bnp-paribas",
-      "percentage": 100.0
+      "percentage": 100
     }
   ],
   "stateOwned": false,
@@ -70,10 +70,16 @@
     "banqup",
     "budget-insight",
     "equensworldline",
+    "gocardless",
     "ibanity",
     "klarna",
+    "lunchflow",
+    "plaid",
+    "powens",
     "salt-edge",
-    "volt"
+    "tink",
+    "volt",
+    "yapily"
   ],
   "webApplication": true,
   "mobileApps": [
@@ -104,5 +110,6 @@
       "url": "https://fr.community.bnpparibasfortis.be/discuzone-23/lancement-du-portail-open-banking-pour-les-fintechs-et-les-innovateurs-2092",
       "date": "2019-03-08"
     }
-  ]
+  ],
+  "bic": "GEBABEBB"
 }

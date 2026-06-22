@@ -8,14 +8,14 @@
   ],
   "name": "BANCO GENERAL S A",
   "legalName": "BANCO GENERAL S A",
-  "bic": "BAGEPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancogeneralsa.com.ico",
   "websiteUrl": null,
   "countryHQ": "PA",
   "countries": [
-    "PA"
+    "PA",
+    "PY"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAGEPAPAXXX"
 }

@@ -8,14 +8,14 @@
   ],
   "name": "INTER INVEST",
   "legalName": "INTER INVEST",
-  "bic": "ITIEFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.interinvest.com.ico",
   "websiteUrl": null,
   "countryHQ": "FR",
   "countries": [
-    "FR"
+    "FR",
+    "LU"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITIEFRP1XXX"
 }

@@ -1,0 +1,14 @@
+{
+  "id": "sahl",
+  "label": "Sahl Financial",
+  "website": "https://sahlfinancial.com/",
+  "iconUrl": "https://sahlfinancial.com/logo/sahl-logo-128.png",
+  "developerPortalUrl": "https://sahlfinancial.com/developers",
+  "countryHQ": "MA",
+  "verified": false,
+  "marketFocus": "Morocco",
+  "marketCoverage": {
+    "live": ["MA"]
+  },
+  "description": "Open Finance infrastructure for Morocco and francophone Africa. Consent-based bank data aggregation, AI-driven alternative credit scoring, OCR/KYC, and anti-fraud APIs for banks, fintechs, and telcos. Founded in 2025 and headquartered in Casablanca."
+}

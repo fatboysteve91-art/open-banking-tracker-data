@@ -8,14 +8,14 @@
   ],
   "name": "E. SUN COMMERCIAL BANK LTD.",
   "legalName": "E. SUN COMMERCIAL BANK LTD.",
-  "bic": "ESUNTWTPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.esuncommercialbankltd.com.ico",
   "websiteUrl": null,
   "countryHQ": "TW",
   "countries": [
-    "TW"
+    "TW",
+    "AU"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESUNTWTPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CFG BANK",
   "legalName": "CFG BANK",
-  "bic": "CAFGMAMCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cfgbank.com.ico",
@@ -23,8 +22,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": ["sahl"],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAFGMAMCXXX"
 }

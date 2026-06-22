@@ -8,12 +8,16 @@
   ],
   "name": "Permanent TSB",
   "legalName": "Permanent TSB PLC",
+  "description": "Permanent TSB is an Irish retail bank offering personal and business banking, mortgages, savings, and cards in Ireland. It publishes a developer portal for PSD2 open banking, including account information, payment initiation, and confirmation of funds. The group is listed in London (ticker IL0A); the Irish state holds a majority stake via the Department of Finance.",
   "ipoStatus": "public",
   "stockSymbol": "LON: IL0A",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1568782021/radar/icons/permanent-tsb.jpg",
   "websiteUrl": "https://www.permanenttsb.ie/",
+  "alternateWebsiteUrls": [
+    "https://www.ptsb.ie/"
+  ],
   "ownership": [
     {
       "shareholderName": "Department of Finance Ireland",
@@ -47,8 +51,13 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://www.permanenttsb.ie/developer-portal/api-overview/",
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "plaid",
-    "truelayer"
+    "powens",
+    "tink",
+    "truelayer",
+    "yapily"
   ],
   "apiProducts": [
     {
@@ -117,5 +126,6 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000pitRtAAI",
-  "articles": []
+  "articles": [],
+  "bic": "IPBSIE2D"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANKHAUS C.L. SEELIGER",
   "legalName": "BANKHAUS C.L. SEELIGER",
-  "bic": "BCLSDE22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankhausclseeliger.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "yaxi"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCLSDE22XXX"
 }

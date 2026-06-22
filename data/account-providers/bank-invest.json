@@ -8,14 +8,14 @@
   ],
   "name": "BANK INVEST",
   "legalName": "BANK INVEST",
-  "bic": "BIVEDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankinvest.com.ico",
   "websiteUrl": null,
   "countryHQ": "DK",
   "countries": [
-    "DK"
+    "DK",
+    "AU"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIVEDKK1XXX"
 }

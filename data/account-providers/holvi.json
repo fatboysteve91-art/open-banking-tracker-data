@@ -38,6 +38,8 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "salt-edge"
   ],
   "collections": [],
@@ -76,5 +78,6 @@
   "partnerships": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "HOLVFIHH"
 }

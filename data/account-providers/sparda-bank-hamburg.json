@@ -4,35 +4,28 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "retail"
   ],
-  "status": "live",
-  "name": "Sparda-Bank Hamburg eG",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/sparda_de.svg",
+  "name": "Sparda-Bank Hamburg",
+  "legalName": null,
   "verified": false,
-  "websiteUrl": "https://www.sparda-bank-hamburg.de",
-  "countryHQ": "DE",
+  "status": "live",
+  "icon": null,
+  "websiteUrl": null,
+  "countryHQ": null,
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "ownership": [],
-  "stateOwned": false,
-  "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge",
-    "volt",
     "yaxi"
   ],
-  "swiftCode": "GENODEF1S11"
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
 }

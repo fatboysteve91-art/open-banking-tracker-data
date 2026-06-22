@@ -35,6 +35,8 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "salt-edge"
   ],
   "collections": [],
@@ -75,5 +77,6 @@
     "moneyhub-enterprise"
   ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "IDFEGIG1"
 }

@@ -81,9 +81,12 @@
   ],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "neonomics",
     "enablebanking",
-    "enfuce"
+    "enfuce",
+    "gocardless",
+    "lunchflow",
+    "neonomics",
+    "tink"
   ],
   "collections": [],
   "webApplication": true,
@@ -119,5 +122,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "HELSFIHH"
 }

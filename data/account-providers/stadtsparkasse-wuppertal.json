@@ -8,7 +8,6 @@
   ],
   "name": "STADTSPARKASSE WUPPERTAL",
   "legalName": "STADTSPARKASSE WUPPERTAL",
-  "bic": "WUPSDE33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stadtsparkassewuppertal.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WUPSDE33XXX"
 }

@@ -4,36 +4,32 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "retail"
   ],
-  "status": "live",
   "name": "Saalesparkasse",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/saalesparkasse_de.svg",
+  "legalName": "Saalesparkasse",
   "verified": false,
-  "websiteUrl": "https://www.saalesparkasse.de",
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.saalesparkasse.com.ico",
+  "websiteUrl": null,
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "ownership": [],
-  "stateOwned": false,
-  "stockSymbol": "",
   "apiAggregators": [
-    "plaid",
-    "salt-edge",
-    "volt",
+    "gocardless",
+    "lunchflow",
+    "yapily",
     "yaxi"
   ],
-  "swiftCode": "NOLADE21HAL"
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "NOLADE21HAL"
 }

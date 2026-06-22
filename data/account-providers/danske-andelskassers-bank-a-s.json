@@ -8,7 +8,6 @@
   ],
   "name": "Danske Andelskassers Bank A/S",
   "legalName": "DANSKE ANDELSKASSERS BANK A/S",
-  "bic": "DANBDK22EUR",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "yapily"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DANBDK22EUR"
 }

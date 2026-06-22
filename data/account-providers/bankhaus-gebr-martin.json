@@ -30,9 +30,13 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "salt-edge",
+    "tink",
     "volt",
+    "yapily",
     "yaxi"
   ],
-  "swiftCode": "MARBDE6GXXX"
+  "bic": "MARBDE6GXXX"
 }

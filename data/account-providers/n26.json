@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "challenger"
+    "challenger",
+    "retail"
   ],
   "name": "n26",
   "legalName": "N26 GmbH",
@@ -70,11 +71,13 @@
     "neonomics",
     "nordigen",
     "plaid",
+    "powens",
     "salt-edge",
     "tink",
     "token",
     "truelayer",
     "volt",
+    "yapily",
     "yaxi"
   ],
   "apiProducts": [
@@ -126,5 +129,5 @@
   "stack": [
     "token-io"
   ],
-  "swiftCode": "NTSBDEB1XXX"
+  "bic": "NTSBDEB1XXX"
 }

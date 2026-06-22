@@ -23,7 +23,9 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "plaid"
+    "plaid",
+    "powens",
+    "tink"
   ],
   "ownership": [],
   "stateOwned": false,

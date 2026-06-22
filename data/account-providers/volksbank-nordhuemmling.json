@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Nordh\u00fcmmling",
-  "legalName": "Volksbank Nordh\u00fcmmling",
+  "name": "Volksbank Nordhümmling",
+  "legalName": "Volksbank Nordhümmling",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-nordhuemmling.com.ico",
@@ -23,7 +23,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

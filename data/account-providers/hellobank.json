@@ -52,8 +52,12 @@
     "budget-insight",
     "equensworldline",
     "fintecture",
+    "gocardless",
     "ibanity",
+    "lunchflow",
+    "powens",
     "salt-edge",
+    "tink",
     "truelayer",
     "volt"
   ],
@@ -111,5 +115,6 @@
   "articles": [],
   "stack": [
     "swagger"
-  ]
+  ],
+  "bic": "BNLIITRRXXX"
 }

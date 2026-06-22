@@ -38,10 +38,14 @@
   "apiReferenceUrl": "https://www.monabanq.com/fr/index.html#ei_tpl_footer",
   "apiAggregators": [
     "bankingsdk",
+    "bridgeapi-io",
     "budget-insight",
     "fintecture",
-    "bridgeapi-io",
-    "ibanity"
+    "gocardless",
+    "ibanity",
+    "lunchflow",
+    "powens",
+    "tink"
   ],
   "apiProducts": [
     {
@@ -105,5 +109,6 @@
   "debitCards": [],
   "creditCards": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "CMCIFRP1MON"
 }

@@ -86,8 +86,11 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "budget-insight",
     "bridgeapi-io",
+    "budget-insight",
+    "gocardless",
+    "lunchflow",
+    "powens",
     "salt-edge"
   ],
   "collections": [],
@@ -153,5 +156,6 @@
     "web"
   ],
   "pricingUrl": "https://www.shine.fr/tarifs/",
-  "awards": []
+  "awards": [],
+  "bic": "TRZOFR21"
 }

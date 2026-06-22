@@ -8,14 +8,14 @@
   ],
   "name": "BANCO CORPORATIVO, S. A.",
   "legalName": "BANCO CORPORATIVO, S. A.",
-  "bic": "BOFPNIMAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocorporativosa.com.ico",
   "websiteUrl": null,
   "countryHQ": "NI",
   "countries": [
-    "NI"
+    "NI",
+    "GT"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFPNIMAXXX"
 }

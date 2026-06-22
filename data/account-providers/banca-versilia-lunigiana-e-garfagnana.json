@@ -30,7 +30,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "salt-edge"
   ],
-  "swiftCode": "ICRAITF1K68"
+  "bic": "ICRAITF1K68"
 }

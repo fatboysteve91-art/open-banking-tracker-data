@@ -16,7 +16,7 @@
   "countries": [
     "US"
   ],
-  "description": "Mercury is a financial technology company that partners with FDIC insured partner banks to protect your money. Mercury offers its users a “banking stack”, with the goal of empowering startups, as well as making banking easier for all businesses.",
+  "description": "Mercury is a financial technology company that partners with FDIC insured partner banks to protect your money. Mercury offers its users a “banking stack”, with the goal of empowering startups, as well as making banking easier for all businesses. In April 2026, Mercury acquired Central (YC S24), an AI-native payroll, benefits, and compliance platform for startups, to add payroll to its product suite.",
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
@@ -35,7 +35,7 @@
     },
     {
       "label": "Transactions",
-      "type": "transactions",
+      "type": "accountInformation",
       "categories": ["accounts"],
       "description": "Download and search your full transaction history",
       "documentationUrl": "https://docs.mercury.com/reference",
@@ -76,6 +76,16 @@
   ],
   "apiAggregators": [
     "plaid"
+  ],
+  "articles": [
+    {
+      "url": "https://mercury.com/blog/mercury-acquires-centralhq",
+      "date": "2026-04-02"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/rywiggs_excited-to-announce-mercury-has-acquired-activity-7445503331625758721-Eu68",
+      "date": "2026-04-02"
+    }
   ],
   "ownership": [],
   "stateOwned": false,

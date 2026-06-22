@@ -67,11 +67,13 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "salt-edge"
   ],
-  "swiftCode": "BAPUES22",
   "sandbox": {
     "status": "available",
     "sourceUrl": "No encontrado"
-  }
+  },
+  "bic": "BAPUES22"
 }

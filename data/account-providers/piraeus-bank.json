@@ -168,6 +168,8 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "salt-edge",
     "volt"
   ],
@@ -212,5 +214,5 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "bic": "PIRBGRAAINS"
+  "bic": "PIRBGRAA"
 }

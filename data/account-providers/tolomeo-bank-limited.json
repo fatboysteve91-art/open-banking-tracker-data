@@ -1,0 +1,30 @@
+{
+  "id": "tolomeo-bank-limited",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Tolomeo Bank Limited",
+  "legalName": "Tolomeo Bank Limited",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.tolomeobank.com.ico",
+  "websiteUrl": "https://www.tolomeobank.com",
+  "countryHQ": "AG",
+  "countries": [
+    "AG"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "TOLMAGAG"
+}

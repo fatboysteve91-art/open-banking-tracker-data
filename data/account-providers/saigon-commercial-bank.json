@@ -8,7 +8,6 @@
   ],
   "name": "SAIGON COMMERCIAL BANK",
   "legalName": "SAIGON COMMERCIAL BANK",
-  "bic": "SACLVNVXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.saigoncommercialbank.com.ico",
@@ -23,8 +22,12 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "finverse",
+    "lunchflow"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SACLVNVXXXX"
 }

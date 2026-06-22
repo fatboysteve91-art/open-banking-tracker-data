@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Montreal",
   "legalName": "BANK OF MONTREAL",
-  "bic": "BOFMCAT2FXM",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofmontreal.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "flinks"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFMCAT2FXM"
 }

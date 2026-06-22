@@ -1,0 +1,34 @@
+{
+  "id": "komercni-banka",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Komerční banka",
+  "legalName": "Komerční banka",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.komercni-banka.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "CZ",
+  "countries": [
+    "CZ"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "KOMBCZPPXXX"
+}

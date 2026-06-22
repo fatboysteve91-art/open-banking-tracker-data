@@ -1,0 +1,31 @@
+{
+  "id": "coast-capital-savings",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Coast Capital Savings",
+  "legalName": "Coast Capital Savings",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.coast-capital-savings.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "flinks"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

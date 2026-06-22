@@ -23,7 +23,9 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "yapily",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

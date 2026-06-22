@@ -4,34 +4,28 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "retail"
   ],
-  "status": "live",
   "name": "Landesbank Saar",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/landesbank_saar_de.svg",
+  "legalName": null,
   "verified": false,
-  "websiteUrl": "https://saarlb.de",
-  "countryHQ": "DE",
+  "status": "live",
+  "icon": null,
+  "websiteUrl": null,
+  "countryHQ": null,
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
+  "apiAggregators": [
+    "yaxi"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "",
-  "apiAggregators": [
-    "yaxi",
-    "salt-edge"
-  ],
-  "swiftCode": "SALADE55XXX"
+  "stockSymbol": null
 }

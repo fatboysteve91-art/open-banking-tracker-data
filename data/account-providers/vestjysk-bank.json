@@ -8,7 +8,6 @@
   ],
   "name": "VESTJYSK BANK",
   "legalName": "VESTJYSK BANK",
-  "bic": "VEHODK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vestjyskbank.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VEHODK22"
 }

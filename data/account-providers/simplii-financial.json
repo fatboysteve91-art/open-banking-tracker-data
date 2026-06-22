@@ -1,0 +1,32 @@
+{
+  "id": "simplii-financial",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Simplii Financial",
+  "legalName": "Simplii Financial",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.simplii-financial.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "flinks",
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

@@ -8,14 +8,14 @@
   ],
   "name": "BANK OF EAST ASIA, LIMITED, THE",
   "legalName": "BANK OF EAST ASIA, LIMITED, THE",
-  "bic": "BEASGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofeastasialimitedthe.com.ico",
   "websiteUrl": null,
   "countryHQ": "GB",
   "countries": [
-    "GB"
+    "GB",
+    "HK"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEASGB2LXXX"
 }

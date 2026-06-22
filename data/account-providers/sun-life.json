@@ -1,0 +1,32 @@
+{
+  "id": "sun-life",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Sun Life",
+  "legalName": "Sun Life",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.sun-life.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "flinks",
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

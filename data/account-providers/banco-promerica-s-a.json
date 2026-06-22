@@ -8,14 +8,14 @@
   ],
   "name": "Banco Promerica, S.a.",
   "legalName": "BANCO PROMERICA, S.A.",
-  "bic": "BPRASVSSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancopromerica.com.ico",
   "websiteUrl": "https://www.bancopromerica.com",
   "countryHQ": "SV",
   "countries": [
-    "SV"
+    "SV",
+    "GT"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPRASVSSXXX"
 }

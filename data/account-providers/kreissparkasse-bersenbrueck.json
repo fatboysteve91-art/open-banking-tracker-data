@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Kreissparkasse Bersenbr\u00fcck",
-  "legalName": "Kreissparkasse Bersenbr\u00fcck",
+  "name": "Kreissparkasse Bersenbrück",
+  "legalName": "Kreissparkasse Bersenbrück",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasse-bersenbrueck.com.ico",
@@ -23,7 +23,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

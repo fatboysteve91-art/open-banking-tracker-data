@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "NORD/LB",
@@ -15,7 +16,7 @@
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -30,8 +31,12 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "gocardless",
+    "lunchflow",
+    "salt-edge",
+    "volt",
+    "yaxi"
   ],
-  "swiftCode": "NOLADE2HXXX"
+  "legalName": "NORD/LB",
+  "bic": "NOLADE2HXXX"
 }

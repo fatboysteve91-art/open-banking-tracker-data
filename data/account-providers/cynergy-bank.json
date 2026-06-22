@@ -36,7 +36,11 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://openbanking.cynergybank.co.uk/store/",
   "apiAggregators": [
-    "plaid"
+    "finexer",
+    "gocardless",
+    "lunchflow",
+    "plaid",
+    "tink"
   ],
   "apiProducts": [
     {
@@ -89,5 +93,6 @@
   "articles": [],
   "stack": [
     "swagger"
-  ]
+  ],
+  "bic": "BCYPGB2LXXX"
 }

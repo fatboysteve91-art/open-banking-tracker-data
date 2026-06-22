@@ -8,14 +8,14 @@
   ],
   "name": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE) S.A., BRUSSELS BRANCH",
   "legalName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE) S.A., BRUSSELS BRANCH",
-  "bic": "ICBKBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.industrialandcommercialbankofchinaeuropesa.com.ico",
   "websiteUrl": null,
   "countryHQ": "BE",
   "countries": [
-    "BE"
+    "BE",
+    "LU"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICBKBEBBXXX"
 }

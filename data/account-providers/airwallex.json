@@ -33,7 +33,10 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],
@@ -85,5 +88,5 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "bic": "AIPTAU32XXX"
+  "bic": "AIPTAU32"
 }

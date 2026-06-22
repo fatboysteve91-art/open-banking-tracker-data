@@ -4,35 +4,31 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "retail"
   ],
-  "status": "live",
-  "name": "Frankfurter Volksbank eG",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/frankfurter_volksbank_de.svg",
+  "name": "Frankfurter Volksbank",
+  "legalName": "Frankfurter Volksbank",
   "verified": false,
-  "websiteUrl": "https://www.frankfurter-volksbank.de",
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.frankfurter-volksbank.com.ico",
+  "websiteUrl": null,
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "ownership": [],
-  "stateOwned": false,
-  "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge",
-    "volt",
+    "gocardless",
+    "lunchflow",
     "yaxi"
   ],
-  "swiftCode": "FFVBDEFFXXX"
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "FFVBDEFFXXX"
 }

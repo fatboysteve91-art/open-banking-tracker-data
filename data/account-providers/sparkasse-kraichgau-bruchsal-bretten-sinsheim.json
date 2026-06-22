@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE KRAICHGAU BRUCHSAL-BRETTEN-SINSHEIM",
   "legalName": "SPARKASSE KRAICHGAU BRUCHSAL-BRETTEN-SINSHEIM",
-  "bic": "BRUSDE66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassekraichgaubruchsalbrettensinsheim.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRUSDE66XXX"
 }

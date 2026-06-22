@@ -38,8 +38,11 @@
   "stockSymbol": "",
   "apiAggregators": [
     "bridgeapi-io",
+    "finexer",
+    "gocardless",
+    "lunchflow",
     "plaid",
     "salt-edge"
   ],
-  "swiftCode": ""
+  "bic": "HBUKGB4B"
 }

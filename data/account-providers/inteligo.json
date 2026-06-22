@@ -23,11 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "plaid",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "BPKOPLPWXXX"
+  "bic": "BPKOPLPW"
 }

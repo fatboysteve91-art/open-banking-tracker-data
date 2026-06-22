@@ -44,6 +44,8 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "salt-edge"
   ],
   "collections": [],
@@ -74,5 +76,6 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "marketplaceUrl": ""
+  "marketplaceUrl": "",
+  "bic": "BAERLULU"
 }

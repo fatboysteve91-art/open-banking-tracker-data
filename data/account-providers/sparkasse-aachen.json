@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE AACHEN",
   "legalName": "SPARKASSE AACHEN",
-  "bic": "AACSDE33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasseaachen.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AACSDE33XXX"
 }

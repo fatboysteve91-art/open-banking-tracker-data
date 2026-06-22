@@ -145,7 +145,11 @@
   ],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],
@@ -180,5 +184,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "GIBACZPX"
 }

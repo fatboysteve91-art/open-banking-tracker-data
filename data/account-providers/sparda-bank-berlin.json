@@ -23,7 +23,9 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "plaid",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "Sparda-Bank Südwest eG",
@@ -15,7 +16,7 @@
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -30,8 +31,11 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "gocardless",
+    "lunchflow",
+    "salt-edge",
+    "yaxi"
   ],
-  "swiftCode": "GENODEF1S01"
+  "bic": "GENODEF1S01",
+  "legalName": "Sparda-Bank Südwest eG"
 }

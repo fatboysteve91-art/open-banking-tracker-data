@@ -1,0 +1,15 @@
+{
+  "id": "bizcuit",
+  "label": "Bizcuit",
+  "website": "https://bizcuit.nl/",
+  "iconUrl": "https://res.cloudinary.com/apideck/icons/bizcuit",
+  "developerPortalUrl": "https://app.bizcuit.nl/openapi/documentation",
+  "twitter": null,
+  "countryHQ": "NL",
+  "marketFocus": "Netherlands",
+  "marketCoverage": {
+    "live": [
+      "NL"
+    ]
+  }
+}

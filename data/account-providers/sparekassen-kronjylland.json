@@ -8,7 +8,6 @@
   ],
   "name": "SPAREKASSEN KRONJYLLAND",
   "legalName": "SPAREKASSEN KRONJYLLAND",
-  "bic": "KRONDK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparekassenkronjylland.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KRONDK22"
 }

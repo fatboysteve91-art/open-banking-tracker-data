@@ -32,7 +32,8 @@
   "apiAggregators": [
     "plaid",
     "salt-edge",
-    "volt"
+    "volt",
+    "yaxi"
   ],
-  "swiftCode": "GENODED1SPW"
+  "bic": "GENODED1SPW"
 }

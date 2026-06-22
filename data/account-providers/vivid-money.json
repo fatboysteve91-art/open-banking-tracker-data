@@ -38,6 +38,9 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "powens",
     "yaxi"
   ],
   "collections": [],
@@ -93,5 +96,5 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "swiftCode": "SXPYDEHHXXX"
+  "bic": "SXPYDEHHXXX"
 }

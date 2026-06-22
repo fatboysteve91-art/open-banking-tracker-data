@@ -30,7 +30,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "tink",
+    "yapily"
   ],
-  "swiftCode": "BDBDIT22"
+  "bic": "BDBDIT22"
 }

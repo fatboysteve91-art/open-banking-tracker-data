@@ -8,7 +8,6 @@
   ],
   "name": "Bitpanda Gmbh",
   "legalName": "BITPANDA GMBH",
-  "bic": "BIPGATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bitpanda.at.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "powens"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIPGATWWXXX"
 }

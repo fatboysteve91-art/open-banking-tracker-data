@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Pfullendorf-Me\u00dfkirch",
-  "legalName": "Sparkasse Pfullendorf-Me\u00dfkirch",
+  "name": "Sparkasse Pfullendorf-Meßkirch",
+  "legalName": "Sparkasse Pfullendorf-Meßkirch",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-pfullendorf-messkirch.com.ico",
@@ -23,7 +23,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

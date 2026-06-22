@@ -20,7 +20,8 @@
   "stateOwned": false,
   "countryHQ": "GB",
   "countries": [
-    "GB"
+    "GB",
+    "PH"
   ],
   "compliance": [
     {
@@ -80,10 +81,14 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
+    "klarna",
+    "lunchflow",
+    "moneyhub-enterprise",
     "plaid",
     "truelayer",
-    "klarna",
-    "moneyhub-enterprise"
+    "yapily",
+    "finverse"
   ],
   "collections": [],
   "tppAccessInterface": [
@@ -142,5 +147,6 @@
     }
   ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "MYMBGB2L"
 }

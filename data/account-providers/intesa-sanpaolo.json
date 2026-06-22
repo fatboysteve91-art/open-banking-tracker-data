@@ -155,11 +155,15 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "equensworldline",
+    "gocardless",
     "klarna",
+    "lunchflow",
     "plaid",
+    "powens",
     "salt-edge",
     "truelayer",
-    "volt"
+    "volt",
+    "yapily"
   ],
   "collections": [],
   "webApplication": true,
@@ -204,5 +208,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "BCITITMMXXX"
 }

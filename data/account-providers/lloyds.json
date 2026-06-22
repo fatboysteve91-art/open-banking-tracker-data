@@ -165,6 +165,7 @@
     "banked",
     "bridgeapi-io",
     "equensworldline",
+    "finexer",
     "fintecture",
     "friendlyscore",
     "klarna",
@@ -172,10 +173,13 @@
     "nordigen",
     "openwrks",
     "plaid",
+    "powens",
     "salt-edge",
+    "tink",
     "token",
     "truelayer",
     "volt",
+    "yapily",
     "yolt"
   ],
   "collections": [

@@ -8,14 +8,14 @@
   ],
   "name": "EURO BANK",
   "legalName": "EURO BANK",
-  "bic": "EUOOKEN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurobank.com.ico",
   "websiteUrl": null,
   "countryHQ": "KE",
   "countries": [
-    "KE"
+    "KE",
+    "GR"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -23,8 +23,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "volt"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUOOKEN1XXX"
 }

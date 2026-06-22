@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Gr\u00fcnberg",
-  "legalName": "Sparkasse Gr\u00fcnberg",
+  "name": "Sparkasse Grünberg",
+  "legalName": "Sparkasse Grünberg",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-gruenberg.com.ico",
@@ -23,7 +23,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

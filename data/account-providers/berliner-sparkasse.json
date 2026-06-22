@@ -30,10 +30,13 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "plaid",
     "salt-edge",
     "volt",
+    "yapily",
     "yaxi"
   ],
-  "swiftCode": "BELADEBEXXX"
+  "bic": "BELADEBEXXX"
 }

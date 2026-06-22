@@ -78,8 +78,9 @@
   ],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "powens",
+    "salt-edge",
+    "yaxi"
   ],
   "collections": [],
   "webApplication": false,
@@ -132,5 +133,5 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "swiftCode": "SOBKDEB2XXX"
+  "bic": "SOBKDEB2XXX"
 }

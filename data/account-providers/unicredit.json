@@ -34,12 +34,16 @@
   "apiAggregators": [
     "bankingsdk",
     "equensworldline",
+    "gocardless",
     "ibanity",
     "klarna",
+    "lunchflow",
     "plaid",
+    "powens",
     "salt-edge",
     "truelayer",
-    "volt"
+    "volt",
+    "yapily"
   ],
   "webApplication": true,
   "mobileApps": [
@@ -65,5 +69,6 @@
   "crunchbase": "unicredit",
   "github": "unicredit",
   "fca": "001b000000MfJO8AAN",
-  "articles": []
+  "articles": [],
+  "bic": "BACXROBU"
 }

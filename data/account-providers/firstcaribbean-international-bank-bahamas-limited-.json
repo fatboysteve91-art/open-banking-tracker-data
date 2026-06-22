@@ -8,14 +8,14 @@
   ],
   "name": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LIMITED, TURKS AND CAICOS",
   "legalName": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LIMITED, TURKS AND CAICOS",
-  "bic": "FCIBTCGPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstcaribbeaninternationalbankbahamaslimited.com.ico",
   "websiteUrl": null,
   "countryHQ": "TC",
   "countries": [
-    "TC"
+    "TC",
+    "BS"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCIBTCGPXXX"
 }

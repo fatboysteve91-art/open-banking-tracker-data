@@ -1,0 +1,34 @@
+{
+  "id": "suedtiroler-sparkasse-niederlassung-muenchen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Südtiroler Sparkasse Niederlassung München",
+  "legalName": "Südtiroler Sparkasse Niederlassung München",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.suedtiroler-sparkasse-niederlassung-muenchen.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "yaxi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "SUSKDEM1XXX"
+}

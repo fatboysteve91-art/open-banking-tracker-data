@@ -30,8 +30,13 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "plaid",
-    "salt-edge"
+    "powens",
+    "salt-edge",
+    "tink",
+    "yapily"
   ],
-  "swiftCode": "FEBIITM2"
+  "bic": "FEBIITM2"
 }

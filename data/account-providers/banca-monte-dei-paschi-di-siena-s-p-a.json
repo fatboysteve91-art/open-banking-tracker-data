@@ -8,14 +8,14 @@
   ],
   "name": "Banca Monte DEI Paschi DI Siena S.p.a.",
   "legalName": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
-  "bic": "PASCCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": null,
   "websiteUrl": null,
   "countryHQ": "CN",
   "countries": [
-    "CN"
+    "CN",
+    "IT"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PASCCNSHXXX"
 }

@@ -86,7 +86,10 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
+    "lunchflow",
     "neonomics",
+    "tink",
     "volt"
   ],
   "collections": [],
@@ -124,5 +127,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "JYBADKKK"
 }

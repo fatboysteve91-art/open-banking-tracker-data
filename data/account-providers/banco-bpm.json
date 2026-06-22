@@ -41,8 +41,10 @@
     "klarna",
     "plaid",
     "salt-edge",
+    "tink",
     "truelayer",
-    "volt"
+    "volt",
+    "yapily"
   ],
   "apiProducts": [
     {
@@ -110,5 +112,6 @@
   "articles": [],
   "stack": [
     "cbiglobe"
-  ]
+  ],
+  "bic": "BAPPIT22XXX"
 }

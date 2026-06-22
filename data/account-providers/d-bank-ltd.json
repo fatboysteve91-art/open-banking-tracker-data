@@ -6,13 +6,12 @@
   "bankType": [
     "retail"
   ],
-  "name": "D BANK LTD.",
-  "legalName": "D BANK LTD.",
-  "bic": "DANLAGAGXXX",
+  "name": "D Bank Ltd.",
+  "legalName": "D Bank Ltd.",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.dbankltd.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.dbankonline.com.ico",
+  "websiteUrl": "https://www.dbankonline.com",
   "countryHQ": "AG",
   "countries": [
     "AG"
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DANLAGAG"
 }

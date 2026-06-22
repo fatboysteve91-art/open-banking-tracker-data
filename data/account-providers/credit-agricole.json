@@ -51,9 +51,12 @@
     "fintecture",
     "ibanity",
     "klarna",
+    "powens",
     "salt-edge",
+    "tink",
     "truelayer",
-    "volt"
+    "volt",
+    "yapily"
   ],
   "collections": [],
   "webApplication": true,
@@ -98,5 +101,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "AGRIGFG1"
 }

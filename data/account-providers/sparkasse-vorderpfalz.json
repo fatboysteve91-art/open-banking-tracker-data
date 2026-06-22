@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE VORDERPFALZ",
   "legalName": "SPARKASSE VORDERPFALZ",
-  "bic": "LUHSDE6AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassevorderpfalz.com.ico",
@@ -24,9 +23,14 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yapily",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LUHSDE6AXXX"
 }

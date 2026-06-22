@@ -1,0 +1,34 @@
+{
+  "id": "ceskoslovenska-obchodni-banka",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Československá obchodní banka",
+  "legalName": "Československá obchodní banka",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.ceskoslovenska-obchodni-banka.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "CZ",
+  "countries": [
+    "CZ"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "CEKOSKBXXXX"
+}

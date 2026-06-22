@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparebanken \u00d8st",
-  "legalName": "Sparebanken \u00d8st",
+  "name": "Sparebanken Øst",
+  "legalName": "Sparebanken Øst",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebanken-ost.com.ico",
@@ -23,10 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "SAOENO22XXX"
+  "bic": "SPOENO21"
 }

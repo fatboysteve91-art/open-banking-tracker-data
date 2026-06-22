@@ -178,16 +178,21 @@
   "apiAggregators": [
     "banked",
     "equensworldline",
+    "finexer",
     "friendlyscore",
+    "gocardless",
     "klarna",
+    "lunchflow",
     "moneyhub-enterprise",
     "nordigen",
     "openwrks",
     "plaid",
     "salt-edge",
+    "tink",
     "token",
     "truelayer",
     "volt",
+    "yapily",
     "yolt"
   ],
   "collections": [
@@ -224,5 +229,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "MIDLGB22"
 }

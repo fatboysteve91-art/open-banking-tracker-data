@@ -8,7 +8,6 @@
   ],
   "name": "BAG BANKAKTIENGESELLSCHAFT",
   "legalName": "BAG BANKAKTIENGESELLSCHAFT",
-  "bic": "GENODEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bagbankaktiengesellschaft.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "yaxi"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GENODEM1XXX"
 }

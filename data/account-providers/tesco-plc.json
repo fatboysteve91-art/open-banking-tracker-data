@@ -8,7 +8,6 @@
   ],
   "name": "TESCO PLC",
   "legalName": "TESCO PLC",
-  "bic": "TSCOGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tescoplc.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TSCOGB2LXXX"
 }

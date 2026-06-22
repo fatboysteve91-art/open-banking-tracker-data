@@ -1,0 +1,34 @@
+{
+  "id": "vr-bank-suedwestpfalz-pirmasens-zweibruecken",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "VR-Bank Südwestpfalz Pirmasens - Zweibrücken",
+  "legalName": "VR-Bank Südwestpfalz Pirmasens - Zweibrücken",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-suedwestpfalz-pirmasens-zweibruecken.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "yaxi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "GENODE61ROA"
+}

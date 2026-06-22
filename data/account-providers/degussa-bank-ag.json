@@ -8,7 +8,6 @@
   ],
   "name": "DEGUSSA BANK AG",
   "legalName": "DEGUSSA BANK AG",
-  "bic": "DEGUDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.degussabankag.com.ico",
@@ -23,8 +22,13 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "plaid"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEGUDEFFXXX"
 }

@@ -64,3 +64,7 @@ typings/
 
 # next.js build output
 .next
+
+.cursor/
+scraped-data
+scrapers/yaxi_connection_ids.json

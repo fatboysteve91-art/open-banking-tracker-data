@@ -23,11 +23,15 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "flinks",
+    "gocardless",
+    "lunchflow",
     "plaid",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "CHASGB2LXXX"
+  "bic": "CHASGB2L"
 }

@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "challenger"
+    "challenger",
+    "retail"
   ],
   "name": "Tomorrow",
   "description": "Mobile Banking meets green finance. Tomorrow is the first mobile current account with a positive impact.",
-  "legalName": null,
+  "legalName": "Tomorrow",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -38,10 +39,14 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "powens",
+    "tink",
     "yaxi"
   ],
   "collections": [],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
@@ -82,5 +87,5 @@
     "android"
   ],
   "awards": [],
-  "swiftCode": "SOBKDEB2XXX"
+  "bic": "SOBKDEB2XXX"
 }

@@ -36,7 +36,10 @@
   "apiStandards": [],
   "apiAggregators": [
     "bridgeapi-io",
-    "budget-insight"
+    "budget-insight",
+    "gocardless",
+    "lunchflow",
+    "powens"
   ],
   "collections": [],
   "webApplication": false,
@@ -66,5 +69,6 @@
   ],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "ESCBFRPPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DRAGSHOLM SPAREKASSE",
   "legalName": "DRAGSHOLM SPAREKASSE",
-  "bic": "DRAGDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dragsholmsparekasse.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DRAGDK21"
 }

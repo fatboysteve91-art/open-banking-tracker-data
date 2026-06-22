@@ -31,6 +31,7 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiAggregators": [
+    "flinks",
     "plaid"
   ],
   "collections": [],
@@ -39,7 +40,6 @@
   "financialReports": [],
   "twitter": "cibc",
   "bloomberg": null,
-  "swiftCode": "CIBCCATT",
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
@@ -70,5 +70,6 @@
     }
   ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "CIBCCATT"
 }

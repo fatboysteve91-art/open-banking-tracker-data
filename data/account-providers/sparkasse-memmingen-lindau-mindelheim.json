@@ -23,6 +23,8 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "volt"
   ],
   "ownership": [],

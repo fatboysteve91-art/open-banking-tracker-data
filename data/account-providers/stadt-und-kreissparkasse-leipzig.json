@@ -30,8 +30,11 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "gocardless",
+    "lunchflow",
+    "salt-edge",
+    "yapily",
+    "yaxi"
   ],
-  "swiftCode": "WELADE8LXXX"
+  "bic": "WELADE8LXXX"
 }

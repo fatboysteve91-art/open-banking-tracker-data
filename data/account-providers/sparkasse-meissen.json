@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Mei\u00dfen",
-  "legalName": "Sparkasse Mei\u00dfen",
+  "name": "Sparkasse Meißen",
+  "legalName": "Sparkasse Meißen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-meissen.com.ico",
@@ -23,7 +23,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

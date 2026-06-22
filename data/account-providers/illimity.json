@@ -30,7 +30,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "gocardless",
+    "lunchflow",
+    "salt-edge",
+    "tink"
   ],
-  "swiftCode": "ITTPIT2MXXX"
+  "bic": "ITTPIT2MXXX"
 }

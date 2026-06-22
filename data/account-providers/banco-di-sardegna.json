@@ -23,7 +23,9 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "tink",
+    "volt",
+    "yapily"
   ],
   "ownership": [],
   "stateOwned": false,

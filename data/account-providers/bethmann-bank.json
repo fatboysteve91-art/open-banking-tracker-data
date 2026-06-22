@@ -30,8 +30,11 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "gocardless",
+    "lunchflow",
+    "plaid",
+    "salt-edge",
+    "yaxi"
   ],
-  "swiftCode": "DELBDE33XXX"
+  "bic": "DELBDE33XXX"
 }

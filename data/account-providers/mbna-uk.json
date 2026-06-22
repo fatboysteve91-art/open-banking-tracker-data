@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "MBNA",
   "description": "",
-  "legalName": null,
+  "legalName": "MBNA",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -123,13 +124,15 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
-    "plaid",
-    "nordigen",
-    "fintecture",
     "bridgeapi-io",
+    "finexer",
+    "fintecture",
     "moneyhub-enterprise",
-    "truelayer",
-    "salt-edge"
+    "nordigen",
+    "plaid",
+    "salt-edge",
+    "tink",
+    "truelayer"
   ],
   "collections": [],
   "webApplication": true,

@@ -30,7 +30,11 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "gocardless",
+    "lunchflow",
+    "salt-edge",
+    "tink",
+    "yapily"
   ],
-  "swiftCode": "SELBIT2B"
+  "bic": "SELBIT2B"
 }

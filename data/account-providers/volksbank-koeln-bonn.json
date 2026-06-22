@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank K\u00f6ln Bonn",
-  "legalName": "Volksbank K\u00f6ln Bonn",
+  "name": "Volksbank Köln Bonn",
+  "legalName": "Volksbank Köln Bonn",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-koeln-bonn.com.ico",
@@ -23,7 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yapily",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

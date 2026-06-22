@@ -40,8 +40,11 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "tink"
   ],
   "collections": [],
   "webApplication": false,
@@ -73,5 +76,6 @@
   "sandbox": {
     "status": "available",
     "sourceUrl": "https://openbanking.abanca.com/sandbox/"
-  }
+  },
+  "bic": "CAGLESMM"
 }

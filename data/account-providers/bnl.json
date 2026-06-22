@@ -30,7 +30,8 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "powens",
     "salt-edge"
   ],
-  "swiftCode": "BNLIITRR"
+  "bic": "BNLIITRR"
 }

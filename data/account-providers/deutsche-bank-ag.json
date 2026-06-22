@@ -8,7 +8,6 @@
   ],
   "name": "Deutsche Bank AG",
   "legalName": "DEUTSCHE BANK AG",
-  "bic": "DEUTIDJADSI",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebank.co.id.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "yapily"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTIDJADSI"
 }

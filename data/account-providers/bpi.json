@@ -31,7 +31,8 @@
   "stockSymbol": "",
   "apiAggregators": [
     "bridgeapi-io",
+    "powens",
     "salt-edge"
   ],
-  "swiftCode": "BBPIPTPL"
+  "bic": "BBPIPTPL"
 }

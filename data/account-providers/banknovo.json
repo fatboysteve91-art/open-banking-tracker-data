@@ -4,17 +4,22 @@
     "account"
   ],
   "bankType": [
-    "challenger"
+    "challenger",
+    "commercial"
   ],
   "name": "Novo",
-  "description": "Novo is a powerfully simple business banking platform with no hidden fees built for small business owners. Simplify your business finances with Novo.",
-  "legalName": "Novo Platform Inc",
+  "description": "Novo is an online business banking platform with no hidden fees built for small business owners. Novo is a fintech, not a bank; banking services are provided by Middlesex Federal Savings, F.A., Member FDIC, with deposits insured up to $250,000. The platform includes checking, invoicing, reserves, AI-assisted bookkeeping, integrations, funding, and small-business credit card products.",
+  "legalName": "Novo Platform Inc.",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://play-lh.googleusercontent.com/_gQ3FOAD7Cx65Mn9R_F7QxqioHUGXcKEBP1Qwq-wsugPFWHfmBFB5Ell7-XDD3IZOdY=w480-h960-rw",
-  "websiteUrl": "https://novo.co/",
+  "icon": "https://img.logo.dev/novo.co?token=pk_GiSqTFfUTg-XEl0b5pMqWA",
+  "websiteUrl": "https://www.novo.co/",
+  "alternateWebsiteUrls": [
+    "https://novo.co/"
+  ],
+  "commercialWebLoginUrl": "https://app.novo.co/login",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "US",
@@ -33,17 +38,19 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
-      "storeUrl": "https://itunes.apple.com/us/app/novo-startup-banking/id1375554760?mt=8"
+      "storeUrl": "https://apps.apple.com/us/app/novo-small-business-checking/id1375554760"
     },
     {
       "operatingSystem": "android",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.novo.android&utm_source=marketing-website&utm_campaign=organic&pcampaignid=pcampaignidmkt-other-global-all-co-prtnr-py-partbadge-mar2515-1"
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.novo.android"
     }
   ],
   "financialReports": [],
@@ -63,7 +70,7 @@
   ],
   "thirdPartyBankingLicense": "middlesexfederal",
   "debitCardLicense": null,
-  "creditCardLicense": null,
+  "creditCardLicense": "continental-bank",
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
@@ -71,7 +78,9 @@
   "debitCards": [
     "mastercard"
   ],
-  "creditCards": [],
+  "creditCards": [
+    "mastercard"
+  ],
   "virtualCards": [],
   "applePay": false,
   "googlePay": false,
@@ -124,7 +133,17 @@
       "id": "middlesexfederal",
       "name": "Middlesex Federal Savings",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1602115143/icons/middlesexfederal.jpg",
-      "websiteUrl": "https://www.middlesexfederal.com/"
+      "websiteUrl": "https://www.middlesexfederal.com/",
+      "desription": "Banking services and the Novo Debit Card are provided by Middlesex Federal Savings, F.A., Member FDIC.",
+      "sourceUrl": "https://www.novo.co/"
+    },
+    {
+      "id": "continental-bank",
+      "name": "Continental Bank",
+      "icon": "https://icons.duckduckgo.com/ip3/www.cbankus.com.ico",
+      "websiteUrl": "https://www.cbankus.com/",
+      "desription": "The Novo Business Credit Card is issued by Continental Bank, pursuant to licenses from Mastercard International Incorporated.",
+      "sourceUrl": "https://www.novo.co/"
     }
   ],
   "rewardPartners": [

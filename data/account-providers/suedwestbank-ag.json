@@ -8,7 +8,6 @@
   ],
   "name": "SUEDWESTBANK AG",
   "legalName": "SUEDWESTBANK AG",
-  "bic": "SWBSDESSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.suedwestbankag.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWBSDESSXXX"
 }

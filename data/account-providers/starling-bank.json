@@ -7,7 +7,7 @@
     "challenger"
   ],
   "name": "Starling Bank",
-  "description": "Better bank accounts for personal(\u00a3 or \u20ac), joint & business. Instant alerts when you spend & get paid, spending habit insights + no fees overseas. Apply in minutes.",
+  "description": "Better bank accounts for personal(£ or €), joint & business. Instant alerts when you spend & get paid, spending habit insights + no fees overseas. Apply in minutes.",
   "legalName": "Starling Bank Limited",
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -75,10 +75,16 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "banked",
+    "finexer",
+    "gocardless",
+    "lunchflow",
     "moneyhub-enterprise",
+    "powens",
     "salt-edge",
+    "tink",
     "truelayer",
-    "volt"
+    "volt",
+    "yapily"
   ],
   "collections": [],
   "webApplication": true,
@@ -107,6 +113,12 @@
     }
   ],
   "stack": [
+    {
+      "id": "engine-by-starling",
+      "name": "Engine by Starling",
+      "icon": "https://img.logo.dev/enginebystarling.com",
+      "websiteUrl": "https://enginebystarling.com/"
+    },
     {
       "id": "bnkbl",
       "name": "Bankable",
@@ -487,5 +499,6 @@
       "year": 2019
     }
   ],
-  "marketplaceUrl": "https://www.starlingbank.com/marketplace"
+  "marketplaceUrl": "https://www.starlingbank.com/marketplace",
+  "bic": "SRLGGB3L"
 }

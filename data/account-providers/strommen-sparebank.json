@@ -8,7 +8,6 @@
   ],
   "name": "STROMMEN SPAREBANK",
   "legalName": "STROMMEN SPAREBANK",
-  "bic": "STMMNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.strommensparebank.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STMMNO21"
 }

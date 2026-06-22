@@ -4,33 +4,30 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "retail"
   ],
-  "status": "live",
   "name": "Banque Chaabi du Maroc",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banque_chaabi_du_maroc_it.svg",
+  "legalName": "Banque Chaabi du Maroc",
   "verified": false,
-  "websiteUrl": "http://test-bcdm.gbp.co.ma/Pages/Home.aspx",
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.banque-chaabi-du-maroc.com.ico",
+  "websiteUrl": null,
   "countryHQ": "IT",
   "countries": [
     "IT"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://developer.cedacri.it",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "",
-  "apiAggregators": [
-    "salt-edge"
-  ],
-  "swiftCode": "BCDMFRPPXXX"
+  "stockSymbol": null,
+  "bic": "BCDMITM1"
 }

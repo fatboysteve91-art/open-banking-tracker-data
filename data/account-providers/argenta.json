@@ -46,8 +46,13 @@
   "apiAggregators": [
     "bankingsdk",
     "banqup",
+    "gocardless",
     "ibanity",
     "klarna",
+    "lunchflow",
+    "plaid",
+    "powens",
+    "tink",
     "volt"
   ],
   "collections": [],
@@ -110,5 +115,5 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "bic": "BBVABEBBTG2"
+  "bic": "ARSPBE22"
 }

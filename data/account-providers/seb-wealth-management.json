@@ -8,7 +8,6 @@
   ],
   "name": "SEB WEALTH MANAGEMENT",
   "legalName": "SEB WEALTH MANAGEMENT",
-  "bic": "SEWMSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sebwealthmanagement.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "tink"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEWMSES1XXX"
 }

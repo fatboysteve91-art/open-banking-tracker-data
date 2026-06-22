@@ -4,15 +4,15 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
-  "name": "CAIXA ECONOMICA FEDERAL",
+  "name": "Caixa Econômica Federal",
   "legalName": "CAIXA ECONOMICA FEDERAL",
-  "bic": "CEFXBRSPXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.caixaeconomicafederal.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1620492426/radar/icons/caixa-br.jpg",
+  "websiteUrl": "https://www.caixa.gov.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -20,11 +20,19 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://desenvolvedores.caixa.gov.br/",
+  "apiReferenceUrl": "https://desenvolvedores.caixa.gov.br/documentation",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "belvo",
+    "klavi",
+    "lunchflow",
+    "pluggy",
+    "trio-br"
+  ],
   "ownership": [],
-  "stateOwned": false,
-  "stockSymbol": null
+  "stateOwned": true,
+  "stockSymbol": null,
+  "bic": "CEFXBRSPXXX"
 }

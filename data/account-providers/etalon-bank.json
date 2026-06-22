@@ -8,14 +8,14 @@
   ],
   "name": "ETALON BANK",
   "legalName": "ETALON BANK",
-  "bic": "ETALUAU1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.etalonbank.com.ico",
   "websiteUrl": null,
   "countryHQ": "UA",
   "countries": [
-    "UA"
+    "UA",
+    "RU"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETALUAU1XXX"
 }

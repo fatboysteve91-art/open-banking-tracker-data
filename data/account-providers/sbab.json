@@ -8,11 +8,12 @@
   ],
   "name": "SBAB",
   "legalName": "SBAB",
-  "bic": "SBAVSESSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sbab.com.ico",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.sbab.se/",
+  "retailWebLoginUrl": "https://secure.sbab.se/logga-in?as=private",
+  "commercialWebLoginUrl": "https://secure.sbab.se/logga-in?as=corporate",
   "countryHQ": "SE",
   "countries": [
     "SE"
@@ -23,8 +24,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "tink"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBAVSESSXXX"
 }

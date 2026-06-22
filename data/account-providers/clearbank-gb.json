@@ -8,23 +8,66 @@
   ],
   "name": "CLEARBANK",
   "legalName": "CLEARBANK",
-  "bic": "CLRBGB22XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.clearbankgb.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552648690/radar/icons/clearbank.jpg",
+  "websiteUrl": "https://www.clear.bank/",
   "countryHQ": "GB",
   "countries": [
     "GB"
   ],
+  "description": "ClearBank is the UK's first new clearing bank in over 250 years, bringing a new level of openness and transparency to financial services. As a leading provider of embedded banking, it is also the only next-generation payments institution with direct access to all major UK payment schemes, including Faster Payments, Bacs, and CHAPS, supporting more than 13 million real and virtual accounts for businesses and their customers.",
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developer-sandbox.clearbank.co.uk/open-banking#/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer-sandbox.clearbank.co.uk/developer-guides/account-information#tag/Accounts",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer-sandbox.clearbank.co.uk/developer-guides/payment-initiation",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer-sandbox.clearbank.co.uk/developer-guides/confirmation-of-funds#section/Authentication",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLRBGB22XXX"
 }

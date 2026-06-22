@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISEN BANK S.A.",
   "legalName": "RAIFFEISEN BANK S.A.",
-  "bic": "RZBRROBUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbanksa.com.ico",
@@ -24,9 +23,14 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "plaid",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RZBRROBU"
 }

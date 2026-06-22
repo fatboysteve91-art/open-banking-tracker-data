@@ -90,12 +90,16 @@
   "apiAggregators": [
     "bankingsdk",
     "equensworldline",
+    "gocardless",
     "ibanity",
+    "lunchflow",
     "nordigen",
     "plaid",
+    "powens",
     "salt-edge",
     "truelayer",
     "volt",
+    "yapily",
     "yaxi"
   ],
   "collections": [],
@@ -137,5 +141,5 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "swiftCode": "COBADEHDXXX"
+  "bic": "COBADEHDXXX"
 }

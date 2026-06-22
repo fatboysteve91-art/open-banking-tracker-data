@@ -4,17 +4,20 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "1822direkt",
   "description": "1822direkt is a subsidiary of Frankfurter Sparkasse and acts as a direct internet bank on their behalf. ",
-  "legalName": null,
+  "legalName": "1822direkt",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1618353227/icons/1822direkt-de.jpg",
   "websiteUrl": "https://www.1822direkt.de/",
+  "retailWebLoginUrl": "https://banking.1822direkt.com/",
+  "commercialWebLoginUrl": null,
   "ownership": [
     {
       "providerId": "frankfurter-sparkasse-de",
@@ -45,8 +48,11 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "gocardless",
+    "lunchflow",
+    "salt-edge",
+    "tink",
+    "yaxi"
   ],
   "collections": [],
   "sdks": [],
@@ -86,5 +92,5 @@
   "platforms": [],
   "awards": [],
   "marketplaceUrl": "",
-  "swiftCode": "HELADEF1822"
+  "bic": "HELADEF1822"
 }

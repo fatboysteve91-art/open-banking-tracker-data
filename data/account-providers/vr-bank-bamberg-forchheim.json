@@ -1,0 +1,36 @@
+{
+  "id": "vr-bank-bamberg-forchheim",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "VR Bank Bamberg-Forchheim",
+  "legalName": "VR Bank Bamberg-Forchheim",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-bamberg-forchheim.com.ico",
+  "websiteUrl": "https://www.vrbank-bafo.de/",
+  "retailWebLoginUrl": "https://www.vrbank-bafo.de/services_cloud/portal/",
+  "commercialWebLoginUrl": "https://www.vrbank-bafo.de/firmenkunden/zahlungsverkehr/banking/online-banking.html",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "yaxi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "GENODEF1FOH"
+}

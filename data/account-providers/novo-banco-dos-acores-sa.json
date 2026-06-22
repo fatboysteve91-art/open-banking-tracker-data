@@ -8,7 +8,6 @@
   ],
   "name": "NOVO BANCO DOS ACORES, SA",
   "legalName": "NOVO BANCO DOS ACORES, SA",
-  "bic": "BESAPTPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novobancodosacoressa.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BESAPTPA"
 }

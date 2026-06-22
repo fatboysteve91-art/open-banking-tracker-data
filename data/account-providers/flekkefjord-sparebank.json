@@ -8,7 +8,6 @@
   ],
   "name": "FLEKKEFJORD SPAREBANK",
   "legalName": "FLEKKEFJORD SPAREBANK",
-  "bic": "FLEKNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.flekkefjordsparebank.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FLEKNO21"
 }

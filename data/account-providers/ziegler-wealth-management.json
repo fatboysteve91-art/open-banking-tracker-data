@@ -8,7 +8,6 @@
   ],
   "name": "ZIEGLER WEALTH MANAGEMENT",
   "legalName": "ZIEGLER WEALTH MANAGEMENT",
-  "bic": "ZIWMUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zieglerwealthmanagement.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZIWMUS41XXX"
 }

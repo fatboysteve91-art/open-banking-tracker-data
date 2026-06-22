@@ -59,9 +59,12 @@
   "apiReferenceUrl": "https://developer.luminoropenbanking.com/",
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
+    "lunchflow",
     "nordigen",
     "plaid",
     "salt-edge",
+    "tink",
     "volt"
   ],
   "apiProducts": [],
@@ -81,5 +84,6 @@
   "bloomberg": null,
   "github": null,
   "fca": null,
-  "articles": []
+  "articles": [],
+  "bic": "RIKOLV2X"
 }

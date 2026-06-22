@@ -8,14 +8,14 @@
   ],
   "name": "PEOPLE'S CHOICE CREDIT UNION",
   "legalName": "PEOPLE'S CHOICE CREDIT UNION",
-  "bic": "PCCNAU51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.peopleschoicecreditunion.com.ico",
   "websiteUrl": null,
   "countryHQ": "AU",
   "countries": [
-    "AU"
+    "AU",
+    "US"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -23,8 +23,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PCCNAU51XXX"
 }

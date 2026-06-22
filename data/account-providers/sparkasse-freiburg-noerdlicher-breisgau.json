@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE FREIBURG-NOERDLICHER BREISGAU",
   "legalName": "SPARKASSE FREIBURG-NOERDLICHER BREISGAU",
-  "bic": "FRSPDE66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassefreiburgnoerdlicherbreisgau.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRSPDE66XXX"
 }

@@ -4,7 +4,9 @@
     "account"
   ],
   "bankType": [
-    "challenger"
+    "challenger",
+    "retail",
+    "direct"
   ],
   "name": "Orange Bank",
   "description": "Orange Bank is a bank launched by French telecom company Orange.",
@@ -31,6 +33,10 @@
     {
       "regulation": "PSD2",
       "status": "unknown"
+    },
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
     }
   ],
   "developerPortalUrl": null,
@@ -46,7 +52,10 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-  "bridgeapi-io"
+    "bridgeapi-io",
+    "gocardless",
+    "lunchflow",
+    "powens"
   ],
   "collections": [],
   "sdks": [],
@@ -93,5 +102,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "GPBAFRPPXXX"
 }

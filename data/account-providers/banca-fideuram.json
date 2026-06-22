@@ -30,8 +30,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "plaid",
     "salt-edge"
   ],
-  "swiftCode": "FIBKITMM"
+  "bic": "FIBKITMM"
 }

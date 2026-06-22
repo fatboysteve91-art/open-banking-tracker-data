@@ -85,7 +85,10 @@
     "BERLIN"
   ],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow"
+  ],
   "collections": [],
   "sdks": [],
   "webApplication": true,
@@ -114,5 +117,6 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "marketplaceUrl": ""
+  "marketplaceUrl": "",
+  "bic": "BEGODEHHXXX"
 }

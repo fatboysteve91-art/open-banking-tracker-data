@@ -34,8 +34,12 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "salt-edge",
-    "volt"
+    "tink",
+    "volt",
+    "yapily"
   ],
   "collections": [],
   "webApplication": false,
@@ -63,5 +67,5 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "bic": "PICHECEQXXX"
+  "bic": "PICHESMM"
 }

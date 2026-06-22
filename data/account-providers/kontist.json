@@ -70,8 +70,12 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "gocardless",
+    "lunchflow",
+    "plaid",
+    "salt-edge",
+    "tink",
+    "yaxi"
   ],
   "webApplication": true,
   "sdks": [
@@ -93,5 +97,5 @@
   ],
   "twitter": "kontist",
   "github": "kontist",
-  "swiftCode": "SOBKDEB2XXX"
+  "bic": "SOBKDEB2XXX"
 }

@@ -8,14 +8,14 @@
   ],
   "name": "HAITONG BANCO DE INVESTIMENTO DO BRASIL S.A.",
   "legalName": "HAITONG BANCO DE INVESTIMENTO DO BRASIL S.A.",
-  "bic": "BESBKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.haitongbancodeinvestimentodobrasilsa.com.ico",
   "websiteUrl": null,
   "countryHQ": "KY",
   "countries": [
-    "KY"
+    "KY",
+    "BR"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BESBKYKYXXX"
 }

@@ -1,0 +1,30 @@
+{
+  "id": "unicorp-bank-overseas-ltd",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Unicorp Bank Overseas Ltd.",
+  "legalName": "Unicorp Bank Overseas Ltd.",
+  "verified": false,
+  "status": "live",
+  "icon": null,
+  "websiteUrl": null,
+  "countryHQ": "AG",
+  "countries": [
+    "AG"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": null
+}

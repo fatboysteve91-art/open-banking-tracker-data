@@ -36,8 +36,11 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/APIs",
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "neonomics",
     "plaid",
+    "tink",
     "volt"
   ],
   "apiProducts": [
@@ -118,5 +121,6 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfZbXAAV",
-  "articles": []
+  "articles": [],
+  "bic": "NYKBDKKK"
 }

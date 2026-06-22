@@ -51,7 +51,8 @@
     "SI",
     "ES",
     "SE",
-    "GB"
+    "GB",
+    "NZ"
   ],
   "compliance": [
     "psd2"
@@ -86,13 +87,17 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "budget-insight",
-    "tink",
-    "fidel-uk",
-    "truelayer",
+    "akahu",
     "bridgeapi-io",
+    "budget-insight",
+    "fidel-uk",
+    "finexer",
+    "lunchflow",
     "moneyhub-enterprise",
-    "salt-edge"
+    "powens",
+    "salt-edge",
+    "tink",
+    "truelayer"
   ],
   "collections": [],
   "webApplication": true,
@@ -144,5 +149,8 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bankType": [
+    "retail"
+  ]
 }

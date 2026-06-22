@@ -1,0 +1,31 @@
+{
+  "id": "td-direct-investing",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "TD Direct Investing",
+  "legalName": "TD Direct Investing",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.td-direct-investing.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "flinks"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

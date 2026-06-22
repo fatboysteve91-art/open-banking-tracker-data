@@ -87,8 +87,11 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "truelayer",
-    "salt-edge"
+    "finexer",
+    "gocardless",
+    "lunchflow",
+    "salt-edge",
+    "truelayer"
   ],
   "collections": [],
   "webApplication": false,
@@ -143,5 +146,6 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "marketplaceUrl": ""
+  "marketplaceUrl": "",
+  "bic": "TPFGGB2E"
 }

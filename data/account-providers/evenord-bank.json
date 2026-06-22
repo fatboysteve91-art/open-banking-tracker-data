@@ -23,7 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "tink",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -30,7 +30,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "finexer",
+    "salt-edge",
+    "yapily"
   ],
-  "swiftCode": "YORKGB21"
+  "bic": "YORKGB21"
 }

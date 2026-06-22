@@ -42,8 +42,10 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiAggregators": [
+    "bridgeapi-io",
     "budget-insight",
-    "bridgeapi-io"
+    "powens",
+    "tink"
   ],
   "collections": [],
   "webApplication": false,

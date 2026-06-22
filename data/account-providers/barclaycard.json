@@ -36,7 +36,9 @@
   "stockSymbol": "",
   "apiAggregators": [
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "tink",
+    "yapily"
   ],
-  "swiftCode": "BARCDEHAXXX"
+  "bic": "BARCDEHAXXX"
 }

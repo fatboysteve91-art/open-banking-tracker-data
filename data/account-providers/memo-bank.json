@@ -38,7 +38,9 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "bridgeapi-io"
+    "bridgeapi-io",
+    "gocardless",
+    "lunchflow"
   ],
   "collections": [],
   "webApplication": false,
@@ -67,5 +69,6 @@
   "partnerships": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "MEMOFRP2"
 }

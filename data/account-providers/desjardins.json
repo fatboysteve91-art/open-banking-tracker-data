@@ -1,0 +1,32 @@
+{
+  "id": "desjardins",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Desjardins",
+  "legalName": "Desjardins",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.desjardins.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "flinks",
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

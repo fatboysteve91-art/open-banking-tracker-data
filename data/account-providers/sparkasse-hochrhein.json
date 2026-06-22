@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE HOCHRHEIN",
   "legalName": "SPARKASSE HOCHRHEIN",
-  "bic": "SKHRDE6WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassehochrhein.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKHRDE6WXXX"
 }

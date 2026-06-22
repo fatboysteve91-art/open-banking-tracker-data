@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Kreissparkasse B\u00f6rde",
-  "legalName": "Kreissparkasse B\u00f6rde",
+  "name": "Kreissparkasse Börde",
+  "legalName": "Kreissparkasse Börde",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasse-boerde.com.ico",
@@ -23,7 +23,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

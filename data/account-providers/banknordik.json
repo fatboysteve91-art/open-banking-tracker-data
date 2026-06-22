@@ -8,7 +8,6 @@
   ],
   "name": "BANKNORDIK",
   "legalName": "BANKNORDIK",
-  "bic": "BANODKKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banknordik.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BANODKKKXXX"
 }

@@ -97,6 +97,8 @@
   ],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "salt-edge",
     "volt"
   ],
@@ -134,5 +136,5 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "bic": "CRBAGRAAI01"
+  "bic": "CRBAGRAA"
 }

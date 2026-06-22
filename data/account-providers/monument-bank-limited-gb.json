@@ -1,0 +1,55 @@
+{
+  "id": "monument-bank-limited-gb",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "MONUMENT BANK LIMITED",
+  "legalName": "MONUMENT BANK LIMITED",
+  "description": "Monument (Monument Bank Ltd.)\n\nMonument is a Financial Services company. Monument Bank offers savings accounts and handpicked lifestyle services to help individuals prosper. Monument employs 98 people (+12.9% YoY, +15 people) and has an annual revenue of $4.1M.",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.monument-bank-limited.com.ico",
+  "websiteUrl": "https://www.monument.co",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "mcpServer": {
+    "type": "hosted",
+    "transport": "sse",
+    "programStatus": "beta",
+    "accessLevel": "read-only"
+  },
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "belvo",
+    "finicity",
+    "gocardless",
+    "mx",
+    "plaid",
+    "salt-edge",
+    "tink",
+    "truelayer",
+    "yapily",
+    "yodlee"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "MNMTGB22"
+}

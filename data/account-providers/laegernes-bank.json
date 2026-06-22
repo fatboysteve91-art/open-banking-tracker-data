@@ -8,7 +8,6 @@
   ],
   "name": "LAEGERNES BANK",
   "legalName": "LAEGERNES BANK",
-  "bic": "LAPNDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.laegernesbank.com.ico",
@@ -24,9 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LAPNDKK1"
 }

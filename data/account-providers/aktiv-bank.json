@@ -8,14 +8,14 @@
   ],
   "name": "AKTIV BANK",
   "legalName": "AKTIV BANK",
-  "bic": "AKTVRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aktivbank.com.ico",
   "websiteUrl": null,
   "countryHQ": "RU",
   "countries": [
-    "RU"
+    "RU",
+    "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -23,8 +23,14 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless",
+    "lunchflow",
+    "volt",
+    "yaxi"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AKTVRU21XXX"
 }

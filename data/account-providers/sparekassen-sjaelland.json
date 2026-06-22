@@ -8,7 +8,6 @@
   ],
   "name": "SPAREKASSEN SJAELLAND",
   "legalName": "SPAREKASSEN SJAELLAND",
-  "bic": "SWESDK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparekassensjaelland.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "tink"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWESDK22XXX"
 }

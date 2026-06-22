@@ -8,14 +8,14 @@
   ],
   "name": "SIAM COMMERCIAL BANK PCL., THE",
   "legalName": "SIAM COMMERCIAL BANK PCL., THE",
-  "bic": "SICOKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.siamcommercialbankpclthe.com.ico",
   "websiteUrl": null,
   "countryHQ": "KY",
   "countries": [
-    "KY"
+    "KY",
+    "HK"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -26,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SICOKYKYXXX"
 }

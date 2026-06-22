@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "Fürst Fugger Privatbank Aktiengesellschaft",
@@ -15,7 +16,7 @@
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -30,8 +31,12 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "gocardless",
+    "lunchflow",
+    "salt-edge",
+    "tink",
+    "yaxi"
   ],
-  "swiftCode": "FUBKDE71XXX"
+  "legalName": "Fürst Fugger Privatbank Aktiengesellschaft",
+  "bic": "FUBKDE71XXX"
 }

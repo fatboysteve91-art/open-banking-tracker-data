@@ -8,7 +8,6 @@
   ],
   "name": "CAIXA DE CREDITO DE LEIRIA",
   "legalName": "CAIXA DE CREDITO DE LEIRIA",
-  "bic": "CDCTPTP2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caixadecreditodeleiria.com.ico",
@@ -25,9 +24,11 @@
   "apiProducts": [],
   "apiAggregators": [
     "plaid",
+    "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDCTPTP2XXX"
 }

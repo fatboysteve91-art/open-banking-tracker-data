@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE CENTRALE POPULAIRE",
   "legalName": "BANQUE CENTRALE POPULAIRE",
-  "bic": "BCPOMAMCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecentralepopulairema.com.ico",
@@ -23,8 +22,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": ["sahl"],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCPOMAMCXXX"
 }
